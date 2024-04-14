@@ -1,0 +1,10 @@
+---
+title: "Bioinformatics Training Officer"
+author: "Alistair Bailey"
+date: last-modified
+date-format: "[Last updated on] YYYY-MM-DD" 
+---
+
+## Slide with von Restoff [highlighting]{.vonrestoff} {.center}
+
+## Next slide
