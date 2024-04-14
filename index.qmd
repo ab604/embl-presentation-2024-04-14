@@ -1,10 +1,67 @@
 ---
-title: "Bioinformatics Training Officer"
-author: "Alistair Bailey"
+title: "Alistair Bailey"
+subtitle: "EMBL Bioinfomatics Training Officer Presentation"
 date: last-modified
 date-format: "[Last updated on] YYYY-MM-DD" 
 ---
 
-## Slide with von Restoff [highlighting]{.vonrestoff} {.center}
+## {#slide1-id background-image="img/career-tl-01.png" background-size="contain" data-menu-title="Timeline 1"}
 
-## Next slide
+## {#slide2-id background-image="img/career-tl-02.png" background-size="contain" data-menu-title="Timeline 2"}
+
+## {#slide3-id background-image="img/career-tl-03.png" background-size="contain" data-menu-title="Timeline 3"}
+
+## [Antigen processing and presentation]{.vonrestoff}  by major histocompatibility molecules in cancer and infectious diseases {.center}
+
+## {#slide5-id background-image="img/mhc-i-structure.png" background-size="contain" background-color="white" data-menu-title="HLA-A2"}
+
+## {#slide6-id data-menu-title="Omics experience Informatics workflow" .center}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### [Omics]{.vonrestoff}
+
+- Proteomics
+- Whole exome sequencing
+- RNAseq
+- scRNAseq
+:::
+
+::: {.column width="40%"}
+### [Workflow]{.vonrestoff}
+
+- bash
+- R
+- git
+- markdown
+:::
+
+::::
+
+## Training and co-working {.center}
+
+- Carpentries Instructor
+- Created and run courses
+- Interdisciplinary projects
+
+## {#slide8-id  background-image="img/desirepath.png" background-size="contain" data-menu-title="Design"}
+
+## 9 {.center}
+
+What this one for?
+
+## {#slide10-id  background-image="img/bioinformatics-desire-lines-01.png" background-size="contain" data-menu-title="Bioinformatics Analysis Design 1"}
+
+## {#slide11-id  background-image="img/bioinformatics-desire-lines-02.png" background-size="contain" data-menu-title="Bioinformatics Analysis Design 2"}
+
+## Possible starting points {.center}
+
+- Documentation
+- Design with evidence in mind[\*]{.highlight}
+- Design with existing materials and training in mind
+- Define success, then focus on directionality
+- Follow the bioinformatics credo: ***make it work, make it fast, make it simple***
+- Explore a role for LLMs
+
+[[\*]{.highlight}E.g. cognitive load, spaced repetition]{.small}
