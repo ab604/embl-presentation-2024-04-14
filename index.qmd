@@ -39,7 +39,7 @@ date-format: "[Last updated on] YYYY-MM-DD"
 
 ::::
 
-## Training and co-working {.center}
+## [Training and co-working]{.vonrestoff} {.center}
 
 - Carpentries Instructor
 - Created and run courses
@@ -47,20 +47,18 @@ date-format: "[Last updated on] YYYY-MM-DD"
 
 ## {#slide8-id  background-image="img/desirepath.png" background-size="contain" data-menu-title="Design"}
 
-## 9 {.center}
-
-What this one for?
+## Training as [a design problem]{.vonrestoff} {.center}
 
 ## {#slide10-id  background-image="img/bioinformatics-desire-lines-01.png" background-size="contain" data-menu-title="Bioinformatics Analysis Design 1"}
 
 ## {#slide11-id  background-image="img/bioinformatics-desire-lines-02.png" background-size="contain" data-menu-title="Bioinformatics Analysis Design 2"}
 
-## Possible starting points {.center}
+## [Possible starting points]{.vonrestoff} {.center}
 
 - Documentation
-- Design with evidence in mind[\*]{.highlight}
-- Design with existing materials and training in mind
 - Define success, then focus on directionality
+- Design with evidence and the median user in mind[\*]{.highlight}
+- Design with existing materials and training in mind
 - Follow the bioinformatics credo: ***make it work, make it fast, make it simple***
 - Explore a role for LLMs
 
