@@ -45,9 +45,9 @@ date-format: "[Last updated on] YYYY-MM-DD"
 - Created and run courses
 - Interdisciplinary projects
 
-## {#slide8-id  background-image="img/desirepath.png" background-size="contain" data-menu-title="Design"}
-
 ## Training as [a design problem]{.vonrestoff} {.center}
+
+## {#slide9-id  background-image="img/desirepath.png" background-size="contain" data-menu-title="Design"}
 
 ## {#slide10-id  background-image="img/bioinformatics-desire-lines-01.png" background-size="contain" data-menu-title="Bioinformatics Analysis Design 1"}
 
