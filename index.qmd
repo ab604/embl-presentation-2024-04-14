@@ -29,7 +29,7 @@ date-format: "[Last updated on] YYYY-MM-DD"
 :::
 
 ::: {.column width="40%"}
-### [Workflow]{.vonrestoff}
+### [Core tools]{.vonrestoff}
 
 - bash
 - R
