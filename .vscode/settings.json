@@ -7,5 +7,8 @@
         "latex",
         "plaintext",
         "quarto"
+    ],
+    "cSpell.ignoreWords": [
+        "vonrestoff"
     ]
 }
